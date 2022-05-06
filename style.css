@@ -49,12 +49,6 @@ section h1, footer h1, nav a
 
 /* header */
 
-#titre_principal
-{
-    display: flex;
-    flex-direction: column;
-}
-
 #logo
 {
     display: flex;
