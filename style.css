@@ -92,3 +92,10 @@ nav li
 {
     margin-left: -40px;
 }
+
+nav a
+{
+    font-size: 1.3em;
+    color: #1a1b1c;
+}
+
