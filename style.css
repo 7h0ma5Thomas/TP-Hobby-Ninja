@@ -86,6 +86,10 @@ nav ul
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    border: black solid 1px;
+    align-items: center;
+    width: 95px;
+    height: 300px;
 }
 
 nav li
@@ -112,5 +116,5 @@ nav a:hover
     border: black solid 1px;
     width: 783px;
     height: 300px;
-    margin: -150px 0px 20px 150px;
+    margin: -317px 0px 20px 150px;
 }
