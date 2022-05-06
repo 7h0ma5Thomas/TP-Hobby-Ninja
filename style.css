@@ -104,3 +104,13 @@ nav a:hover
     color: red;
     border-bottom: 3px solid red;
 }
+
+/* banniere */
+
+#tuile
+{
+    border: black solid 1px;
+    width: 783px;
+    height: 300px;
+    margin: -150px 0px 20px 150px;
+}
