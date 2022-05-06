@@ -99,3 +99,8 @@ nav a
     color: #1a1b1c;
 }
 
+nav a:hover
+{
+    color: red;
+    border-bottom: 3px solid red;
+}
