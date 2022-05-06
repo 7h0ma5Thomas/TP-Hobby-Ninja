@@ -23,3 +23,25 @@
     font-weight: normal;
     font-style: normal;
 }
+
+/* élements principaux de la page */
+
+body
+{
+    background: url(img/fond-hightech.png);
+    font-family: 'trebuchet MS'; Arial, serif;
+    color: #1a1b1c;
+}
+
+#bloc_page
+{
+    width: 900px; /* limite fixée à 900px de large */
+    margin: auto; /* centré */
+}
+
+section h1, footer h1, nav a
+{
+    font-family: Dayrom, serif;
+    font-weight: normal;
+    text-transform: uppercase; /* les titres sont toujours en majuscule */
+}
