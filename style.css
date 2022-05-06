@@ -85,7 +85,7 @@ nav ul
     list-style-type: none; /* fait disparaitre les puces */
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-around;
     border: black solid 1px;
     align-items: center;
     width: 95px;
