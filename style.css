@@ -221,24 +221,24 @@ footer p, footer ul
 footer h1
 {
     font-size: 1.1em;
+    text-align: center;
 }
 
 #Copyright
 {
     width: 40%;
-    border: 1px solid black;
+    text-align: center;
 }
 
 #liens_utiles
 {
     width: 60%;
-    border: 1px solid black;
 }
 
 #liste_liens
 {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     margin-top: 0;
 }
 
@@ -252,4 +252,5 @@ footer h1
 {
     text-decoration: none;
     color: #760001;
+    font-size: 1.2em;
 }
