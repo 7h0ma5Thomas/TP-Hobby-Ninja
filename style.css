@@ -49,11 +49,16 @@ section h1, footer h1, nav a
 
 /* header */
 
+header
+{
+    background-color: rgb(8, 13, 20)
+}
+
 #logo
 {
     display: flex;
     flex-direction: row;
-    align-items: baseline;
+    justify-content: center;
 }
 
 #logo img
