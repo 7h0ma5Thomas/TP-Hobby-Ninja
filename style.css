@@ -155,6 +155,7 @@ article, aside
 article
 {
     margin-right: 12px;
+    margin-top: -20px;
     flex: 3;
 }
 
@@ -162,6 +163,7 @@ article
 {
     vertical-align: middle;
     margin-right: 8px;
+    
 }
 
 article p
