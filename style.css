@@ -154,7 +154,7 @@ article, aside
 
 article
 {
-    margin-right: 20px;
+    margin-right: 12px;
     flex: 3;
 }
 
@@ -199,5 +199,5 @@ aside
 
 aside img
 {
-    margin-right: 5px;
+    margin-right: 2px;
 }
