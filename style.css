@@ -176,7 +176,7 @@ aside
     flex: 1.2;
     position: relative;
     background-color: rgba(204,211,221,0.83);
-    box-shadow: 0px 2px 5px 525457;
+    box-shadow: 0px 2px 5px #525457;
     border-radius: 5px;
     padding: 10px;
     font-size: 0.9em;
