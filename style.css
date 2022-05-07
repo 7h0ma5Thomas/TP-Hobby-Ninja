@@ -196,3 +196,13 @@ aside h2
     margin-top: 0px;
     font-weight: normal;
 }
+
+/* footer */
+
+footer
+{
+    display: flex;
+    background: url(img/footer.jpg);
+    border: solid 1px black;
+    width: 100%;
+}
