@@ -36,7 +36,7 @@ body
 
 #bloc_page
 {
-    width: 900px; /* limite fixée à 900px de large */
+    width: 900px; /* limite fixée à 900px de large, pour un design qui s'adapte aux dimensions de l'écran, utiliser les % */
     margin: auto; /* centré */
 }
 
