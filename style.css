@@ -244,8 +244,8 @@ footer h1
 
 #liens_utiles ul
 {
-    list-style-image: url(img/ico_liensexterne.png); /* permet d'utiliser une image perso plutôt que les puces standards */
     padding-left: 2px;
+    list-style-image: url('images/ico_liensexterne.png');
 }
 
 #liens_utiles a
