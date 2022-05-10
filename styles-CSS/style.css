@@ -101,7 +101,7 @@ i:hover
 
 /* banniere */
 
-#tuile
+#tile
 {
     border: black solid 1px;
     width: 783px;
@@ -113,7 +113,7 @@ i:hover
     box-shadow: 0px 4px 4px #525457 ;
 }
 
-#tuile_description
+#tile-description
 {
     position: absolute;
     bottom: 0;
@@ -146,7 +146,7 @@ article
     flex: 3;
 }
 
-.avatare
+.avatar
 {
     vertical-align: middle;
     margin-right: 8px;
