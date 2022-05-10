@@ -92,11 +92,32 @@ nav li
 i
 {
     font-size: 65px;
+    color: black;
 }
 
 i:hover
 {
+    color: rgb(81, 41, 134);
+}
+
+.fa-youtube:hover
+{
     color: red;
+}
+
+.fa-facebook:hover
+{
+    color: rgb(58, 88, 155);
+}
+
+.fa-twitter:hover
+{
+    color: rgb(85, 173, 238);
+}
+
+.fa-at:hover
+{
+    color: rgb(241, 110, 34);
 }
 
 /* banniere */
