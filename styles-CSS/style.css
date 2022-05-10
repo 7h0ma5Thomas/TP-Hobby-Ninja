@@ -89,16 +89,14 @@ nav li
     margin-left: -40px;
 }
 
-nav a
+i
 {
-    font-size: 1.3em;
-    color: #1a1b1c;
+    font-size: 65px;
 }
 
-nav a:hover
+i:hover
 {
     color: red;
-    border-bottom: 3px solid red;
 }
 
 /* banniere */
@@ -252,3 +250,4 @@ footer h1
     color: #760001;
     font-size: 1.2em;
 }
+
