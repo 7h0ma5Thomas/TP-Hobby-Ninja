@@ -191,6 +191,14 @@ section
     margin-bottom: 20px;
 }
 
+@media all and (max-width: 1024px)
+{
+    section
+    {
+        width: auto;
+    }
+}
+
 article, aside
 {
     text-align: justify;
@@ -280,10 +288,12 @@ aside h2
         margin-left: 15px;
     }
 
+    /* ci-dessous pour aligner les liens de l'ex du cours :
     aside p: :last-child
     {
         text-align: center;
     }
+    */
 }
 
 /* footer */
