@@ -255,6 +255,37 @@ aside h2
     font-weight: normal;
 }
 
+@media all and (max-width: 1024px)
+{
+    section
+    {
+        flex-direction: column;
+    }
+
+    article, aside
+    {
+        width: auto;
+        margin-bottom: 15px;
+    }
+
+    #fleche_bulle
+    {
+        display: none;
+    }
+
+    #photo_kit img, #photo_setter_softer img
+    {
+        width: 110px;
+        float: right;
+        margin-left: 15px;
+    }
+
+    aside p: :last-child
+    {
+        text-align: center;
+    }
+}
+
 /* footer */
 
 footer
