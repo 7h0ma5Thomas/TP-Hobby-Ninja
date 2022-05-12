@@ -166,6 +166,14 @@ i:hover
     font-size: 0.8em;
 }
 
+@media all and (max-width: 1024px)
+{
+    #tile
+    {
+        display: none;
+    }
+}
+
 /* Corps */
 
 section
