@@ -61,6 +61,7 @@ header
 {
     background-color: rgb(8, 13, 20);
     box-shadow: 0px 0px 0px 10px rgb(8, 13, 20);
+    margin-bottom: 15px;
 }
 
 #logo
@@ -90,6 +91,14 @@ nav ul
     height: 430px;
     border-radius: 5px;
     box-shadow: 0px 4px 4px #525457 ;    
+}
+
+@media all and (max-width: 1024px)
+{
+    nav ul
+    {
+        margin: auto;   
+    }
 }
 
 nav li
